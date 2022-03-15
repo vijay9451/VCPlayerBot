@@ -54,16 +54,16 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=c79b83e436b82bc5680841d29cae159f)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=c3ViaW5wcy9WQ1BsYXllckJvdCBtYWlu)
 
 ## Deploy to Railway
-<p><a href=https://github.com/vijay991738/VCPlayerBot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+<p><a href=https://github.com/subinps/VCPlayerBot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
  
 ## Deploy to VPS
 
 ```sh
-git clone https://github.com/vijay991738/VCPlayerBot
+git clone https://github.com/subinps/VCPlayerBot
 cd VCPlayerBot
 pip3 install -r requirements.txt
 # install node js
